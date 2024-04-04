@@ -52,17 +52,22 @@
 									<p>This page is still under construction, please check back later</p>
 								</header>
 								<p>
-									Paragraph of text
-								</p>
-								<p>
-									Another paragraph.
+									Projects done in KNES 381: Computer Applications in Kinesiology. Content covered in this class included command prompt basics, markup/HTML, Scratch, Python, Excel, computer graphics, and an intro to video analysis for sport. 
 								</p>
 								<section>
 									<header>
-										<h3>Header</h3>
+										<h3>Python Programming</h3>
 									</header>
 									<p>
 										Paragraph of text
+									</p>
+								</section>
+								<section>
+									<header>
+										<h3>Video Analysis</h3>
+									</header>
+									<p>
+										Video analysis done using Dartfish. 
 									</p>
 								</section>
 
