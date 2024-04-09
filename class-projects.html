@@ -11,6 +11,17 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
+	<style>
+	.containment {
+ 		display: grid;
+  		grid-template-columns:50% 50%;
+  		align-items: center;
+	}
+	.pictures{
+   		float: left;
+ 		padding: 5px;
+	}
+	</style>
 	<body class="no-sidebar is-preload">
 		<div id="page-wrapper">
 
@@ -51,14 +62,18 @@
 								<p>
 									Projects done in KNES 381: Computer Applications in Kinesiology. Content covered in this class included command prompt basics, markup/HTML, Scratch, Python, Excel, computer graphics, and an intro to video analysis for sports. 
 								</p>
-								<!-- <section>
+								<section>
 									<header>
 										<h3>Python Programming</h3>
 									</header>
-									<p>
-										Paragraph of text
-									</p>
-								</section> -->
+									<body> 
+										<div class="containment">
+									     		<div class="pictures"> <img src="images/codeScreenshot.PNG" width=90% height=auto alt=""/> </div> 
+									     		<div class="pictures"> <img src="images/VO2_FECO2_VCO2.png" width=100% height=auto alt=""/> </div>
+										</div>
+										<p>VO2 graph plotted using Python and class provided data.</p>
+									</body>
+								</section> 
 								<section>
 									<header>
 										<h3>Video Analysis</h3>
